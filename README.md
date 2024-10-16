@@ -1,8 +1,7 @@
 # Debt Repayment Prediction
 
-This repository contains the code and data used in the **Data Science Talent Competition (Round 2)**, where the **Crazy Chipmunk** team implemented machine learning models to predict customers' debt repayment behavior.
+This repository contains the code and data used in a Data Science competition, where the **Crazy Chipmunk** team implemented machine learning models to predict customers' debt repayment behavior.
 
-[Link to Dataset](https://drive.google.com/file/d/1Ibmg67yrqAHEd3GbbwICfIyEgXOHzpsC/view?usp=sharing)
 ## Overview
 
 The goal of the project is to differentiate between customers who repay their loans on time and those who don't, using various features from the dataset. The approach focuses on:
